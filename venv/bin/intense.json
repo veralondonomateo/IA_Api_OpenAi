@@ -1,0 +1,19 @@
+{"intents" : [
+    {
+        "tag" : "saludo",
+        "patterns" :["hola","que tal","como estas","saludos","buenos dias","buenas tardes","Buenas noches"],
+        "responses" : ["Hola","Muy bien y tu?","Buenos Días","Buenas Tardes","Buenas noches","Estoy genial"]
+    },
+    {
+        "tag" : "nombre",
+        "patterns" :["como es tu nombre","como te llamas","Cual es tu nombre"],
+        "responses" : ["Mi nombre es Teo IA","Me llamo teo IA","Me dicen teo IA ;)"]
+    },
+    {
+        "tag" : "ayuda",
+        "patterns" :["puedes ayudarme","necesito algo","ayudame","necesito tu ayuda","ayudame en algo","colaborame","necesito que me ayudes con algo"],
+        "responses" : ["Claro, Soy teo IA en que puedo ayudarte?","Claro, Soy teo IA en que puedo ayudarte?","Aquí esta teo IA para ayudarte"]
+    }
+]
+
+}
